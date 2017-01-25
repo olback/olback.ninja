@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+	color: gray;
+	background-color: #000000;
+	font: 1em/1.2 "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif;
+	background: #000000 url("ninja.gif")  no-repeat fixed center;
+}
+
+p {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	padding: 2px 10px;
+	color: #gray;
+	font-size: 10px;
+}
+
+.i-twitter {
+	color: #55acee;
+}
+
+a:link { color: gray; }
+a:visited { color: gray; }
+a:focus { color: gray; }
+a:hover { color: gray; }
+a:active { color: gray; }
