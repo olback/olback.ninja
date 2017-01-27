@@ -10,7 +10,7 @@
 	<body>
 		<p>
 		<a href="https://twitter.com/mrolback"><i class="fa fa-twitter i-twitter"></i> MrOlback</a><br>
-		&copy <?php print(date('Y')); ?> <a href="https://olback.net">olback.net</a><br>
+			&copy <script>document.write(new Date().getFullYear())</script> <a href="https://olback.net">olback.net</a><br>
 		</p>
 	</body>
 </html>
